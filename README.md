@@ -1,2 +1,2 @@
 ## Publications by Gaoxiang Jin
-- 
+- 'An IFU View of the Active Galactic Nuclei in MaNGA Galaxy Pairs', *The Astrophysical Journal, Volume 923, Issue 1, id.6, 20 pp.*, [ADS link](https://ui.adsabs.harvard.edu/abs/2021ApJ...923....6J/abstract )
