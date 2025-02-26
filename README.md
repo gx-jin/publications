@@ -1,2 +1,3 @@
 ## Publications by Gaoxiang Jin
+- 'Comparison of Global H i and Hα Line Profiles in MaNGA Galaxy Pairs with FAST', *The Astrophysical Journal, Volume 923, Issue 1, id.6, 20 pp.*, [ADS link](https://ui.adsabs.harvard.edu/abs/2021ApJ...923....6J/abstract )
 - 'An IFU View of the Active Galactic Nuclei in MaNGA Galaxy Pairs', *The Astrophysical Journal, Volume 923, Issue 1, id.6, 20 pp.*, [ADS link](https://ui.adsabs.harvard.edu/abs/2021ApJ...923....6J/abstract )
